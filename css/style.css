@@ -1,0 +1,64 @@
+
+#separator-ribbon{
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    z-index: 2;
+}
+#separator-ribbon .content{
+    width: 150%;
+    height: 150px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    margin-left: -25%;
+}
+#rowcards{
+    background:url(../img/cat-the-moon-texture-neko-wallpaper-preview.jpg);
+
+}
+.card-border{
+    border: solid 10px #fff;
+    width: 6px;
+    border-radius:20px;
+    overflow: hidden;
+    transition: all ease-out 0.2s;
+}
+.card-border:hover{
+    background: url(../img/Wallpaper-Sailor-Moon-para-celular-2.webp);
+    transform: scale(1.05);
+}
+#rowacordionform{
+height: 450px;
+width: 102%;
+}
+#accordionExample{
+    margin-top: 35px;
+    margin-right: 35px;
+    margin-left: 225px;
+    float: right;
+    width: 300px;
+    height: 330px;
+    
+}
+#form{
+    margin-top: 35px;
+    margin-left: 20px;
+    margin-right: 55px;
+    float: left;
+    width: 500px;
+    height: 330px;
+}
+#footer{
+    background: url(../img/bg-04.png);
+    background-color:lightblue;
+    background-size: 55px 55px;
+}
+#leyenda{
+    width: 50%;
+    margin-left: 140px;
+    margin-right: 55px;
+
+
+}
+
+
